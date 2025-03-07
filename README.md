@@ -6,9 +6,9 @@
 
 `SEMESTRE: 3º`
 
-O projeto visa criar um sistema de gestão de biblioteca, permitindo o cadastro de usuários, livros, empréstimos e reservas. A aplicação facilitará o controle e organização dos empréstimos, oferecendo uma experiência mais eficiente para bibliotecários e usuários.
+O projeto consiste no desenvolvimento de um sistema de gestão para bibliotecas, com foco no cadastro de usuários, livros, empréstimos e reservas. A aplicação permitirá que bibliotecários gerenciem de maneira eficiente os processos de empréstimos, devoluções e reservas de materiais, facilitando a organização do acervo.
 
-
+Com uma interface intuitiva, o sistema proporcionará uma experiência mais ágil tanto para os bibliotecários quanto para os usuários, garantindo que os materiais possam ser facilmente localizados e acessados. O objetivo é otimizar o controle da biblioteca e aprimorar a experiência dos usuários.
 
 
 
