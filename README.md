@@ -6,20 +6,25 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto visa criar um sistema de gestão de biblioteca, permitindo o cadastro de usuários, livros, empréstimos e reservas. A aplicação facilitará o controle e organização dos empréstimos, oferecendo uma experiência mais eficiente para bibliotecários e usuários.
+
+
+
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Athos Geraldo Salomon Dolabela da Silveira
+* Bernardo Elias Renttins Vasconcelos de Sousa
+* Fabrício Junio da Silva
+* Henrique Fadel Carvalho
+* Igor de Oliveira Martins dos Santos
+* Jack Medeiros de Paula Pereira Demori
+* Reginaldo Adriano Mota
 
 ## Orientador
 
-* Nome completo do professor 
+* Maria Ines Lage de Paula
 
 # Planejamento
 
