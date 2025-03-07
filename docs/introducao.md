@@ -1,5 +1,5 @@
 # 1. INTRODUÇÃO
-
+É notável o aumento do público jovem interessados na leitura, podemos observar a partir de um relatório publicado pela American Library Association (ALA) em novembro do ano passado destacou que os Millennials e a Geração Z – nascidos entre 1981 e 1995 e entre 1995 e 2010, respectivamente – estão frequentando as bibliotecas, tanto fisicamente quanto online, em índices superiores às gerações mais velhas. O estudo também aponta que os jovens estão transformando esses espaços, aproveitando-os para atividades além do tradicional.[1]
 A gestão de bibliotecas envolve uma série de processos complexos, incluindo o controle de empréstimos, devoluções e a organização do acervo. Com o crescente volume de materiais e a demanda por um serviço mais eficiente, muitos sistemas tradicionais de gestão se mostram ineficazes ou desatualizados. A implementação de uma solução tecnológica moderna e integrada se torna essencial para melhorar a agilidade no atendimento e a organização dos recursos bibliográficos. A área de pesquisa deste trabalho foca no desenvolvimento de uma aplicação que possa automatizar e otimizar esses processos, proporcionando maior eficiência e satisfação para os usuários e bibliotecários.
 ## 1.1. Problema
 
