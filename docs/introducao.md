@@ -12,7 +12,7 @@ O objetivo geral deste trabalho é desenvolver um software que permita a gestão
 * Desenvolver funcionalidades para o controle de empréstimos e devoluções.
 * Criar um módulo de reservas para usuários.
 * Proporcionar uma interface intuitiva e fácil de usar para bibliotecários e usuários.
-* Garantir a segurança e integridade dos dados com sistemas de autenticação e autorização.
+* Garantir a segurança dos dados com sistemas de login e controle de acesso.
 
 ## 1.3. Justificativa
 
