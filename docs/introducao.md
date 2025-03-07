@@ -8,11 +8,11 @@ Atualmente, muitas bibliotecas enfrentam dificuldades para gerenciar seus acervo
 
 O objetivo geral deste trabalho é desenvolver um software que permita a gestão eficiente de bibliotecas, automatizando processos como o cadastro de usuários, controle de empréstimos e reservas de livros. A aplicação buscará reduzir a burocracia e aumentar a agilidade no atendimento. Os objetivos específicos incluem:
 
-# Implementar um sistema de cadastro para usuários e livros.
-# Desenvolver funcionalidades para o controle de empréstimos e devoluções.
-# Criar um módulo de reservas para usuários.
-# Proporcionar uma interface intuitiva e fácil de usar para bibliotecários e usuários.
-# Garantir a segurança e integridade dos dados com sistemas de autenticação e autorização.
+* Implementar um sistema de cadastro para usuários e livros.
+* Desenvolver funcionalidades para o controle de empréstimos e devoluções.
+* Criar um módulo de reservas para usuários.
+* Proporcionar uma interface intuitiva e fácil de usar para bibliotecários e usuários.
+* Garantir a segurança e integridade dos dados com sistemas de autenticação e autorização.
 
 ## 1.3. Justificativa
 
