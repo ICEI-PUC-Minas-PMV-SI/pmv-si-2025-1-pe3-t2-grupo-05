@@ -1,33 +1,10 @@
-# 2. ESTADO DA ARTE
-A gestão de bibliotecas tem evoluído significativamente com o avanço tecnológico, especialmente no contexto acadêmico. A seguir, apresentamos um panorama das pesquisas e práticas atuais relacionadas aos sistemas de gestão para bibliotecas, destacando os principais desafios, avanços e áreas que necessitam de maior atenção.
+A gestão de bibliotecas tem passado por uma transformação significativa com o avanço tecnológico, especialmente dentro do ambiente acadêmico. O crescimento exponencial da produção científica e a necessidade de acesso eficiente à informação têm impulsionado estudos voltados para a modernização da gestão bibliotecária. Nesse sentido, pesquisas recentes destacam os desafios enfrentados pelas bibliotecas acadêmicas na administração de dados de pesquisa, evidenciando a necessidade de diretrizes bem definidas, infraestrutura tecnológica robusta e a capacitação contínua de profissionais e pesquisadores para garantir um gerenciamento eficaz dos acervos e serviços prestados [3]. Além disso, a inovação no setor tem sido alvo de diversas investigações, que buscam compreender os principais fatores que influenciam a gestão da informação e como as bibliotecas podem se adaptar às novas exigências da sociedade contemporânea.
 
-## 1. Pesquisas em Desenvolvimento
-Gestão de Dados de Pesquisa: Estudos recentes analisam os desafios enfrentados por bibliotecas acadêmicas na gestão de dados de pesquisa, enfatizando a necessidade de políticas claras, infraestrutura tecnológica adequada e capacitação de profissionais e pesquisadores. 
-[SCIELO.ORG.MX](https://www.scielo.org.mx/scielo.php?pid=S0187-358X2021000100099&script=sci_arttext) [3]
+Instituições renomadas têm desempenhado um papel essencial no avanço desse campo. O Instituto Federal de Santa Catarina (IFSC), por exemplo, tem realizado estudos que visam a sistematização da gestão do conhecimento em bibliotecas, propondo metodologias para tornar mais eficiente o funcionamento do Sistema de Bibliotecas Integradas, permitindo um compartilhamento mais ágil e estruturado de informações entre diferentes unidades [4]. De forma semelhante, a Universidade de São Paulo (USP) tem se dedicado à pesquisa sobre a gestão de dados de pesquisa, reforçando o papel das bibliotecas universitárias na oferta de serviços especializados para o armazenamento, organização e disseminação do conhecimento acadêmico [5].
 
-Inovação em Bibliotecas: Pesquisas focam na identificação e análise de aspectos relevantes sobre a gestão da inovação em bibliotecas, buscando atender às novas demandas sociais e aprimorar a gestão da informação. 
-[SCIELO.ORG.MX](https://www.scielo.org.mx/scielo.php?pid=S0187-358X2018000300029&script=sci_arttext) [3]
+O impacto da transformação digital no setor bibliotecário é inegável. Com a crescente digitalização de documentos e a necessidade de oferecer um acesso híbrido aos acervos, as bibliotecas têm se adaptado para atender de maneira mais eficaz às demandas dos usuários, combinando coleções físicas e digitais em ambientes integrados [6]. Nesse contexto, a evolução dos sistemas de gerenciamento bibliográfico tem evidenciado a importância das Plataformas de Serviços de Bibliotecas (LSPs), que possibilitam a automação e otimização da gestão de recursos informacionais, oferecendo soluções avançadas para catalogação, recuperação e análise de dados [7].
 
-## 2. Principais Pesquisadores e Instituições
-Instituto Federal de Santa Catarina (IFSC): Conduziu estudos sobre a gestão do conhecimento em bibliotecas, propondo práticas para sistematizar processos em seu Sistema de Bibliotecas Integradas. 
-[PERIODICOS.UFMG.BR](https://periodicos.ufmg.br/index.php/pci/article/view/28798) [4] 
+Contudo, apesar dos avanços, ainda existem divergências entre pesquisadores e profissionais da área em relação às melhores abordagens para a modernização dos sistemas bibliotecários. Um dos principais pontos de discussão envolve a escolha entre software proprietário e soluções de código aberto. Enquanto algumas instituições optam por sistemas comerciais devido à oferta de suporte técnico e atualizações constantes, outras priorizam ferramentas open-source, visando maior flexibilidade e redução de custos operacionais. Além disso, outro aspecto relevante diz respeito à formação dos bibliotecários, que precisam se adaptar a novas tecnologias e metodologias para aprimorar a gestão da informação e oferecer serviços cada vez mais personalizados e eficientes aos usuários.
 
-Universidade de São Paulo (USP): A USP tem explorado a gestão de dados de pesquisa, destacando o papel das bibliotecas universitárias na oferta de serviços especializados nessa área. 
-[ABCD.USP.BR](https://www.abcd.usp.br/noticias/gestao-de-dados-de-pesquisa-o-que-o-bibliotecario-tem-ver-com-isso/) [5]
+Apesar dos avanços, ainda há lacunas e oportunidades para pesquisas futuras. Um dos temas emergentes na área é a aplicação de tecnologias inovadoras, como inteligência artificial e aprendizado de máquina, para recomendar conteúdos de forma automatizada e otimizar processos internos das bibliotecas. Além disso, a segurança da informação tem se tornado uma preocupação crescente, uma vez que a digitalização dos acervos e a coleta de dados dos usuários exigem medidas rigorosas para garantir a proteção e a privacidade das informações. Assim, novos estudos são necessários para explorar estratégias eficazes de preservação digital e segurança cibernética, assegurando a integridade dos sistemas bibliotecários frente aos desafios tecnológicos da atualidade.
 
-## 3. Conclusões das Pesquisas Científicas
-Transformação Digital: A era digital tem impulsionado bibliotecas a adaptarem seus serviços, integrando acervos físicos e digitais para melhor atender às necessidades dos usuários. 
-[UFOP.BR](https://ufop.br/noticias/em-discussao/bibliotecas-na-era-digital-e-sua-relacao-com-os-academicos) [6]
-
-Plataformas de Serviços de Bibliotecas (LSPs): A evolução dos sistemas de gerenciamento destaca a importância das LSPs, que oferecem soluções integradas para a gestão eficiente de recursos bibliográficos. 
-[SCIELO.BR](https://www.scielo.br/j/pci/a/RWNKB7JDpbdwDhrqhXHvnxJ/?format=pdf&lang=pt) [7] 
-
-## 4. Divergências entre Pesquisadores
-Software Proprietário vs. Open Source: Há debates sobre a adoção de sistemas proprietários em contraste com soluções de código aberto, considerando aspectos como custo, personalização e suporte técnico.
-
-Capacitação Profissional: Discussões apontam para a necessidade de formação contínua dos bibliotecários, especialmente em áreas emergentes como a gestão de dados de pesquisa e o uso de novas tecnologias.
-
-## 5. Lacunas e Oportunidades para Novas Pesquisas
-Integração de Tecnologias Emergentes: Há espaço para explorar o uso de inteligência artificial e aprendizado de máquina na recomendação de conteúdos e otimização de processos internos das bibliotecas.
-
-Segurança da Informação: A proteção de dados dos usuários e a preservação digital são áreas que requerem maior atenção, especialmente com o aumento da digitalização de acervos.
