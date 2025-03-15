@@ -6,7 +6,7 @@
 
 `SEMESTRE: 3º`
 
-O projeto consiste no desenvolvimento de um sistema de bilioteca online, com foco no no grupo alvo da terceira idade. A aplicação permitirá que os idosos tenham maior adaptabilidade e melhor utilização da plataforma, por meio de estruturas visuais, interfaces, tipografia, entre outros. 
+O projeto consiste no desenvolvimento de um sistema de bilioteca online, com foco no no grupo alvo da terceira idade. A aplicação permitirá que os idosos tenham maior adaptabilidade e melhor utilização da plataforma, por meio de estruturas visuais, interfaces, tipografia e outras características que contribuam para sua navegação, aumentando assim o número de leitores em um ambiente virtual. 
 
 
 
