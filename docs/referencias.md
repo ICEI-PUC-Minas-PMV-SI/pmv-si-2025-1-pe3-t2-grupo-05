@@ -2,22 +2,18 @@
 
 Lista de referências utilizadas e citadas no trabalho.
 
-[1] PUBLISHNEWS. Millennials e Geração Z são maioria nas bibliotecas contemporâneas | PublishNews. Disponível em: <https://www.publishnews.com.br/materias/2024/03/05/millennials-e-geracao-z-sao-maioria-nas-bibliotecas-contemporaneas>. Acesso em: 2 mar. 2025.
 
-[2] PEARSON HIGHER EDUCATION. Gestão de bibliotecas na era digital: desafios e oportunidades. Disponível em: <https://hed.pearson.com.br/blog/plataformas-de-aprendizagem/gestao-de-bibliotecas-na-era-digital-desafios-e-oportunidades>. Acesso em: 2 mar. 2025.
+Liliana Giusti SERRA, 2022 https://doi.org/10.1590/2318-0889202234e210044
+Maria Lourdes Blatt Ohira, 2002 https://doi.org/10.1590/S0100-19652002000100007
+MOURO, Glaucio Henrique Matsushita. UMA NOVA INTERFACE PARA A INCLU-SÃO DIGITAL NA TERCEIRA IDADE. 2010. PUC-SP, p. 96-97. Disponível em: https://tede2.pucsp.br/bitstream/handle/18055/1/Glaucio%20Henrique%20Matsushita%20Moro.pdf
+BRAGA, Pâmella Priscilla Negrão; MÉXAS, Mirian Picinini; DRUMOND, Gei-sa Meirelles. Modelos de negócios de livros eletrônicos: novos desafios para as bi-bliotecas universitárias brasileiras. In: CONGRESSO BRASILEIRO DE ENGENHA-RIA DE PRODUÇÃO, 10., 2020. Anais [...]. 2020. p. 1-12. 
+MORO, Eliane Lourdes da Silva. Ambientes virtuais de aprendizagem e re-cursos da web 2.0 em contexto hospitalar: rompendo a exclusão temporária de ado-lescentes com fibrose cística. 2010. Tese (Doutorado em Educação) - Universidade Federal do Rio Grande do Sul, Porto Alegre, 2010. 
+RIETJENS, Manoela Hermes; KROEFF, Márcia Silveira; PINHEIRO, Liliane Vieira. Ciclo de vida de recursos eletrônicos: enfoque na gestão de coleções em bibliotecas universitárias. PontodeAcesso, Salvador, v. 13, n. 1, p. 3-29, abr. 2019. 
+SERRA, Liliane Gonçalves. Biblioteca digital: reflexões sobre coleções, acer-vos e tipologia. Brasília: FEBAB, 2022. 
+SERRA, Liliane Gonçalves; SANTARÉM SEGUNDO, José Eduardo. A Teoria da Primeira Venda e os livros digitais. Perspectivas em Ciência da Informação, v. 23, n. 1, p. 19-30, jan./mar. 2018. 
 
-[3] CARVALHO, É. R. S. DE; LEITE, F. C. L.; BERTIN, P. R. B. Bibliotecas acadêmicas e gestão de dados de pesquisa: uma revisão bibliográfica. Investigación Bibliotecológica: archivonomía, bibliotecología e información, v. 35, n. 86, p. 99, 29 jan. 2021. Disponível em:
-<https://www.scielo.org.mx/scielo.php?pid=S0187-358X2021000100099&script=sci_arttext>. Acesso em: 2 mar. 2025.
 
-[4] QUÊTI DI DOMÊNICO; JACIR FAVRETTO. Gestão do conhecimento em bibliotecas: o caso do sistema de bibliotecas integradas do Instituto Federal de Santa Catarina. Perspectivas em Ciência da Informação, v. 28, p. e28798–e28798, 2023. Disponível em: <https://periodicos.ufmg.br/index.php/pci/article/view/28798>. Acesso em: 2 mar. 2025.
 
-‌
-[5] DUDZIAK, E. Gestão de Dados de Pesquisa: o que os Bibliotecários (e as Bibliotecas) têm a ver com isso?. Disponível em: <https://www.abcd.usp.br/noticias/gestao-de-dados-de-pesquisa-o-que-o-bibliotecario-tem-ver-com-isso/>. Acesso em: 2 mar. 2025.
 
-‌
-[6] RAYANN, F. As bibliotecas na era digital e sua relação com os acadêmicos | Universidade Federal de Ouro Preto - UFOP. Disponível em: <https://ufop.br/noticias/em-discussao/bibliotecas-na-era-digital-e-sua-relacao-com-os-academicos>. Acesso em: 2 mar. 2025.
-‌
-
-[7] TONDING, F. J.; VANZ, S. A. DE S. Plataformas de Serviços de Bibliotecas: a evolução dos sistemas para gerenciamento de bibliotecas. Perspectivas em Ciência da Informação, v. 23, n. 4, p. 73–96, dez. 2018. Disponível em: <https://www.scielo.br/j/pci/a/RWNKB7JDpbdwDhrqhXHvnxJ/?format=pdf&lang=pt>. Acesso em: 2 mar. 2025.
 
 ‌
