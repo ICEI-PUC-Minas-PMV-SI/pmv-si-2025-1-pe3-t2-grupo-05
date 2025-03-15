@@ -6,7 +6,7 @@
 
 `SEMESTRE: 3º`
 
-O projeto consiste no desenvolvimento de um sistema de gestão para bibliotecas, com foco no cadastro de usuários, livros, empréstimos e reservas. A aplicação permitirá que bibliotecários gerenciem de maneira eficiente os processos de empréstimos, devoluções e reservas de materiais, facilitando a organização do acervo.
+O projeto consiste no desenvolvimento de um sistema de bilioteca online, com foco no no grupo alvo da terceira idade. A aplicação permitirá que os idosos tenham maior adaptabilidade e melhor utilização da plataforma, por meio de estruturas visuais, interfaces, tipografia, entre outros. 
 
 
 
