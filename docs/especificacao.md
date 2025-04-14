@@ -72,9 +72,9 @@ O LDI não permite o download dos e-books para dispositivos externos, restringin
 
 | Ator | Descrição |
 |--------------------|------------------------------------|
-| Coordenador |	Usuário gerente do sistema responsável pelo cadastro e manutenção de cursos de aperfeiçoamento. Possui acesso geral ao sistema. |
-| Secretaria |	Usuário responsável por registros de alunos, professores, turmas e gerência de matrículas. |
-| ... |	... |	... |
+| Administrador  |	Usuário responsável por gerenciar o catálogo de e-books, podendo cadastrar, remover ou atualizar os livros. Ele também gerencia os usuários, ativando, desativando ou modificando suas contas para garantir o uso adequado da plataforma. O administrador tem controle total sobre a plataforma, assegurando a manutenção e organização dos serviços.  |
+| Usuário |	Pessoa da terceira idade que utiliza a plataforma para buscar, comprar e ler e-books. Pode personalizar configurações de acessibilidade como tamanho de fonte, contraste e brilho para melhorar sua experiência de leitura. O usuário navega pelo catálogo, gerencia sua biblioteca pessoal e acessa os livros adquiridos exclusivamente dentro da plataforma.  |
+| Suporte Técnico  |	Usuário responsável por responder aos chamados via chat, auxiliando e tirando dúvidas dos usuários com problemas no acesso aos e-books ou ao próprio sistema. O suporte técnico possui acesso limitado, restrito apenas às funções de assistência ao usuário, sem permissões administrativas. Oferece orientação especialmente adaptada às necessidades dos idosos, com instruções claras e detalhadas. |	... |
 
 ## 3.4 Modelagem do Sistema
 
