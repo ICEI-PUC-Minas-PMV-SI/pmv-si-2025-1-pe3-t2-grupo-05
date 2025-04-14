@@ -1,6 +1,82 @@
-A gestão de bibliotecas contemporâneas enfrenta transformações significativas im-pulsionadas pela crescente digitalização e pelos novos modelos de negócios. As instituições bibliotecárias se deparam com uma mudança de paradigma em sua missão fundamental: da custódia das coleções físicas para a provisão de acesso ao conhecimento em múltiplos formatos (SERRA; SEGUNDO, 2018). Esta transição tem revelado desafios estruturais que precisam ser superados para atender as ne-cessidades informacionais dos usuários no contexto digital. Um dos principais desafios identificados na literatura é a gestão de recursos eletrônicos, especialmente de livros digitais. Segundo Braga, Méxas e Drumond (2020), as bibliotecas universitárias brasileiras enfrentam dificuldades relacionadas à aquisição de conteúdo digital devido à complexidade dos modelos de negócios disponíveis. Os autores destacam quatro modelos predominantes: "acesso ou aqui-sição perpétua, assinatura, empréstimo a curto prazo e aquisição orientada pelo usuário" (BRAGA; MÉXAS; DRUMOND, 2020, p. 7), cada um apresentando vanta-gens e limitações que impactam o desenvolvimento das coleções. 
-         A preservação digital emerge como outro ponto crítico. Diferente das coleções impressas, onde a posse física garante a disponibilidade contínua, os conteúdos digitais frequentemente são acessados através de plataformas de terceiros, sob condições específicas de licenciamento. Rietjens, Kroeff e Pinheiro (2019) obser-vam que esta realidade exige novas estratégias de preservação, incluindo acordos com provedores que garantam acesso perpétuo ou participação em iniciativas cola-borativas como LOCKSS e Portico. O ciclo de vida dos recursos eletrônicos tem transformado substancialmente o fluxo de trabalho nas bibliotecas, exigindo "conhecimentos, atividades e atitudes diferenciadas, algumas das quais não eram necessárias para as obras impressas" (RIETJENS; KROEFF; PINHEIRO, 2019, p. 14). A seleção, aquisição, disponibiliza-ção, gerenciamento, preservação e avaliação destes recursos demanda competên-cias técnicas específicas e uma compreensão aprofundada de questões legais rela-cionadas ao licenciamento de conteúdo digital. 
-        A integração de sistemas é outro aspecto desafiador no cenário atual. As plata-formas de serviços de bibliotecas (LSPs) têm se destacado como solução para a gestão unificada de recursos informacionais, oferecendo funcionalidades avança-das para "catalogação, recuperação e análise de dados" (RIETJENS; KROEFF; PI-NHEIRO, 2019, p. 7). Entretanto, a implementação destas soluções exige investi-mentos significativos e adaptações organizacionais. A inclusão digital representa uma preocupação crescente, especialmente con-siderando grupos específicos como idosos. Moro (2010) aponta que "a complexida-de da tecnologia é um importante fator de exclusão digital" e que as iniciativas de-vem focar não apenas no acesso, mas também na "adaptabilidade da tecnologia em função de grupos excluídos". Esta realidade demanda o desenvolvimento de inter-faces intuitivas e programas de capacitação voltados para usuários com menor fami-liar dade tecnológica. 
-          Nos aspectos tecnológicos, observa-se a emergência de aplicações de inteli-gência artificial e aprendizado de máquina para otimização de processos internos e recomendação personalizada de conteúdos. Simultaneamente, a segurança da in-formação torna-se preocupação primordial, considerando os riscos associados à digitalização dos acervos e coleta de dados dos usuários (RIETJENS; KROEFF; PI-NHEIRO, 2019). 
-          No contexto brasileiro, Serra (2022) destaca que a pandemia de COVID-19 intensificou a demanda por recursos digitais, expondo lacunas na infraestrutura tecnológica das bibliotecas e na disponibilidade de conteúdos eletrônicos. Bibliote-cas que não trabalhavam com conteúdo digital foram forçadas a adaptar-se rapida-mente, enfrentando obstáculos relacionados a orçamentos limitados, capacitação de equipes e integração de sistemas. Este cenário complexo evidencia a necessidade de soluções tecnológicas que facilitem a gestão integrada de recursos informacionais e promovam a acessibilida-de para diferentes perfis de usuários. O desenvolvimento de sistemas de gestão de bibliotecas deve, portanto, contemplar não apenas aspectos técnicos de organiza-ção da informação, mas também considerações sobre usabilidade, inclusão digital e sustentabilidade das coleções no ambiente digital.
+A inclusão digital representa atualmente um desafio significativo quando se trata da população idosa, considerando especialmente o crescente envelhecimento populacional e a digitalização acelerada da sociedade. Conforme apontam Raymundo, Gil e Bernardo (2019), existe uma necessidade premente de desenvolver estratégias para os idosos poderem se sentir incluídos digitalmente e desfrutar das soluções tecnológicas em seu processo de envelhecimento. 
+
+  
+
+2.1. Envelhecimento e Tecnologia 
+
+ 
+
+O processo de envelhecimento traz consigo alterações físicas, cognitivas e sensoriais que impactam diretamente na forma como os idosos interagem com dispositivos tecnológicos. De acordo com Raymundo, Gil e Bernardo (2019, p. 25), "o fator idade conduz a um decréscimo na memória de trabalho, nas habilidades espaciais, na habilidade em tomar decisões e resolver problemas", o que pode dificultar o aprendizado de novas tecnologias. 
+
+As alterações visuais são particularmente relevantes quando se trata de interfaces digitais. A "diminuição da quantidade de luz atingindo a retina, a redução da sensibilidade a contraste e cores e a maior sensibilidade ao brilho" (RAYMUNDO; GIL; BERNARDO, 2019, p. 26) podem impactar significativamente a usabilidade de sistemas digitais por esse público. 
+
+Por outro lado, os autores ressaltam haver manutenção ou até melhoria da memória semântica e da inteligência cristalizada nos idosos, permitindo que utilizem conhecimentos adquiridos ao longo da vida para compensar declínios em outras funções cognitivas. 
+
+  
+
+2.2. Inclusão Digital e Letramento Digital 
+
+ 
+
+O conceito de inclusão digital transcende o simples acesso a dispositivos tecnológicos. Raymundo, Gil e Bernardo (2019, p. 27) definem a inclusão digital como "a democratização do acesso às informações e serviços digitais e da tecnologia, livre acesso do cidadão ao mundo digital e/ou inserção de todas as classes sociais no uso da tecnologia". 
+
+O letramento digital, por sua vez, implica não somente na utilização instrumental da tecnologia, mas na aprendizagem de capacidades que permitam compreender e dominar a linguagem subjacente à cibercultura. Selber (2004 apud RAYMUNDO; GIL; BERNARDO, 2019) identifica três facetas do letramento digital: 
+
+• Letramento digital funcional: relacionado à aquisição básica de competências tecnológicas;  
+
+• Letramento digital crítico: onde as tecnologias são vistas como artefatos culturais;  
+
+• Letramento digital retórico: onde o sujeito se torna plenamente consciente dos contextos que envolvem as tecnologias. 
+
+ 
+
+  
+
+2.3. Design Centrado no Usuário para Idosos 
+
+O design centrado no usuário, quando aplicado ao público idoso, requer considerações específicas. Raymundo, Gil e Bernardo (2019, p. 33-38) destacam fatores essenciais para a implementação eficaz de projetos digitais para idosos: 
+
+Ambiente físico e logística: Considerações sobre iluminação, disposição de equipamentos e conforto ergonômico; 
+
+Equipamentos tecnológicos: Aspectos como dimensão da tela, contraste, teclado e mouse adequados às necessidades dos idosos;  
+
+Interfaces adaptadas: Conforme apontam os autores, "as visualizações devem fornecer um bom contraste entre as informações exibidas e o fundo da tela" (RAYMUNDO; GIL; BERNARDO, 2019, p. 35);  
+
+Material de apoio: Preferência por "materiais com formato passo a passo, associando as etapas realizadas à sequência da exploração da ferramenta digital a ser ensinada" (RAYMUNDO; GIL; BERNARDO, 2019, p. 37);  
+
+Linguagem acessível: "A linguagem utilizada no material instrucional deve ser cuidadosa e simples, com analogias e terminologias familiares, evitando o uso de jargões técnicos" (RAYMUNDO; GIL; BERNARDO, 2019, p. 37). 
+
+  
+
+2.4. Modelos de Aceitação de Tecnologia por Idosos 
+
+Um aspecto fundamental para o desenvolvimento de sistemas digitais para idosos é entender os fatores que influenciam a aceitação e o uso das tecnologias. Chen e Chan (2014 apud RAYMUNDO; GIL; BERNARDO, 2019) propuseram o Modelo de Aceitação de Tecnologia Sênior (STAM), que considera fatores específicos relacionados ao envelhecimento: 
+
+• Utilidade percebida e facilidade de uso percebida;  
+
+• Condições facilitadoras;  
+
+• Autoeficácia em relação às tecnologias; 
+
+• Ansiedade em relação à tecnologia;  
+
+• Condições de saúde autorrelatadas e habilidades cognitivas;  
+
+• Funcionamento físico e relações sociais. 
+
+ 
+
+Este modelo evidencia a necessidade de considerar não somente aspectos técnicos, mas também sociais, psicológicos e físicos no desenvolvimento de tecnologias para idosos. 
+
+  
+
+2.5. Tendências e Desafios Atuais 
+
+ 
+
+Atualmente, o desenvolvimento de bibliotecas digitais acessíveis para idosos enfrenta desafios específicos, como apontado por estudos recentes. As dificuldades comumente relatadas incluem interfaces complexas, letras pequenas, falta de contraste adequado e navegação não intuitiva (RAYMUNDO; GIL; BERNARDO, 2019). 
+
+Neste contexto, o Design Centrado no Usuário emerge como abordagem essencial, privilegiando a participação ativa do público-alvo no processo de desenvolvimento. Como destacam Raymundo, Gil e Bernardo (2019, p. 39), "é conveniente ouvir os adultos mais velhos e os idosos, envolvê-los no processo formativo, levá-los a decidir acerca da formação que irão frequentar, fazê-los sentir que são importantes e fundamentais para o processo de decisão". 
+
+Esta abordagem colaborativa, alinhada às diretrizes de acessibilidade específicas para idosos, constitui o caminho mais promissor para o desenvolvimento de sistemas de biblioteca digital verdadeiramente inclusivos. 
 
