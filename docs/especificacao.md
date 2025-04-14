@@ -51,7 +51,7 @@ O LDI não permite o download dos e-books para dispositivos externos, restringin
 | RF6	| Gerenciar Preferências |	Processamento de Configuração, Salvamento e Aplicação de preferências de acessibilidade |
 | RF7	| Gerenciar Ajuda |	Processamento de Exibição de tutoriais, dicas e suporte contextual ao usuário |
 | RF8	| Gerenciar Favoritos |	Processamento de Marcação, Visualização e Organização de e-books favoritos |
-| ... |	...	| ... |
+
 
 
 ### 3.3.2 Requisitos Não Funcionais
@@ -147,7 +147,12 @@ Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
 
 ### 3.4.3 Diagrama de Classes 
 
-A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a identificação do funcionário responsável pelo registro, bem com os dados do aluno e turmas. Para uma disciplina podemos ter diversas turmas, mas apenas um professor responsável por ela.
+A Figura 2 mostra o diagrama de classes do sistema de gerenciamento de eBooks. A classe User deve conter informações como identificação, e-mail e senha, além
+de estar associada à sua biblioteca pessoal (PersonalLibrary) e lista de favoritos (Favorites). Um Ebook pode estar presente em várias bibliotecas pessoais e listas de
+favoritos, mas cada eBook possui apenas um registro no Catalog, que gerencia todos
+os eBooks disponíveis no sistema. A classe Sale registra as vendas, associando o
+usuário ao eBook comprado e o valor da transação. Além disso, o sistema conta com
+suporte técnico (TechnicalSupport) e configurações de acessibilidade (AccessibilitySettings) para melhorar a experiência do usuário, enquanto o Admin gerencia os eBooks e os usuários do sistema.
 
 #### Figura 2: Diagrama de Classes do Sistema.
  
@@ -159,9 +164,14 @@ A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a i
 
 | # | Nome | Descrição |
 |--------------------|------------------------------------|----------------------------------------|
-| 1	|	Aluno |	Cadastro de informações relativas aos alunos. |
-| 2	| Curso |	Cadastro geral de cursos de aperfeiçoamento. |
-| 3 |	Matrícula |	Cadastro de Matrículas de alunos nos cursos. |
-| 4 |	Turma |	Cadastro de turmas.
-| 5	|	Professor |	Cadastro geral de professores que ministram as disciplinas. |
+| 1	|PersonalLibrary |	Cadastro de eBooks na biblioteca pessoal do usuário |
+| 2	| AccessibilitySettings |	Configurações de acessibilidade para leitura de eBooks |
+| 3 |	Admin |	Cadastro de gerenciamento de eBooks e usuários pelo administrador |
+| 4 |	User |	Cadastro de informações e perfil do usuário |
+| 5	|	TechinicalSupport |	Suporte técnico para usuários, incluindo chat e tutoriais |
+| 6	|	Favorites |	Cadastro de eBooks favoritos do usuário |
+| 7	|	Ebook  |	Cadastro de informações detalhadas dos eBooks |
+| 8	|	Sale |	Cadastro de vendar e processamento de pagamentos |
+| 9	|	Catalog |	Cadastro geral de eBooks disponíveis para busca |
+
 | ... |	... |	... |
