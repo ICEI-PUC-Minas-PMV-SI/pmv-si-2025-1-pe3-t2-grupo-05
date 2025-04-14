@@ -121,7 +121,7 @@ Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
 
 **Fluxo Alternativo (3): Problema de Acessibilidade** 
 
-4. Se o idoso tiver dificuldade para visualizar ou ouvir o conteúdo: 
+3. Se o idoso tiver dificuldade para visualizar ou ouvir o conteúdo: 
    - O sistema fornece um guia rápido de acessibilidade. 
    - O idoso pode acionar o suporte técnico para assistência. 
 
