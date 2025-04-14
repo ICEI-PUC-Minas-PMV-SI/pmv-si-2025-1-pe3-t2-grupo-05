@@ -1,3 +1,4 @@
+# 2. ESTADO DA ARTE
 A inclusão digital representa atualmente um desafio significativo quando se trata da população idosa, considerando especialmente o crescente envelhecimento populacional e a digitalização acelerada da sociedade. Conforme apontam Raymundo, Gil e Bernardo (2019), existe uma necessidade premente de desenvolver estratégias para os idosos poderem se sentir incluídos digitalmente e desfrutar das soluções tecnológicas em seu processo de envelhecimento. 
 
   
