@@ -69,8 +69,7 @@ Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
 #### Fluxo usuário (CSU01) 
  
 
-### Sumário: 
-Este caso de uso descreve como um usuário interage com a livraria digital para pesquisar, comprar e ler e-books de forma acessível. 
+*Sumário*: Este caso de uso descreve como um usuário interage com a livraria digital para pesquisar, comprar e ler e-books de forma acessível. 
 
 Ator Primário: Usuário 
 
