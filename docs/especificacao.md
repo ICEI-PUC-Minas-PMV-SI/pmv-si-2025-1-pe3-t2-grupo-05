@@ -66,50 +66,80 @@ Como observado no diagrama de casos de uso da Figura 1, a secretária poderá ge
 
 Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
 
-#### Gerenciar Professor (CSU01)
-
-Sumário: A Secretária realiza a gestão (inclusão, remoção, alteração e consulta) dos dados sobre professores.
-
-Ator Primário: Secretária.
-
-Ator Secundário: Coordenador.
-
-Pré-condições: A Secretária deve ser validada pelo Sistema.
-
-Fluxo Principal:
-
-1) 	A Secretária requisita manutenção de professores.
-2) 	O Sistema apresenta as operações que podem ser realizadas: inclusão de um novo professor, alteração de um professor, a exclusão de um professor e a consulta de dados de um professor.
-3) 	A Secretária seleciona a operação desejada: Inclusão, Exclusão, Alteração ou Consulta, ou opta por finalizar o caso de uso.
-4) 	Se a Secretária desejar continuar com a gestão de professores, o caso de uso retorna ao passo 2; caso contrário o caso de uso termina.
-
-Fluxo Alternativo (3): Inclusão
-
-a)	A Secretária requisita a inclusão de um professor. <br>
-b)	O Sistema apresenta uma janela solicitando o CPF do professor a ser cadastrado. <br>
-c)	A Secretária fornece o dado solicitado. <br>
-d)	O Sistema verifica se o professor já está cadastrado. Se sim, o Sistema reporta o fato e volta ao início; caso contrário, apresenta um formulário em branco para que os detalhes do professor (Código, Nome, Endereço, CEP, Estado, Cidade, Bairro, Telefone, Identidade, Sexo, Fax, CPF, Data do Cadastro e Observação) sejam incluídos. <br>
-e)	A Secretária fornece os detalhes do novo professor. <br>
-f)	O Sistema verifica a validade dos dados. Se os dados forem válidos, inclui o novo professor e a grade listando os professores cadastrados é atualizada; caso contrário, o Sistema reporta o fato, solicita novos dados e repete a verificação. <br>
-
-Fluxo Alternativo (3): Remoção
-
-a)	A Secretária seleciona um professor e requisita ao Sistema que o remova. <br>
-b)	Se o professor pode ser removido, o Sistema realiza a remoção; caso contrário, o Sistema reporta o fato. <br>
-
-Fluxo Alternativo (3): Alteração
-
-a)	A Secretária altera um ou mais dos detalhes do professor e requisita sua atualização. <br>
-b)	O Sistema verifica a validade dos dados e, se eles forem válidos, altera os dados na lista de professores, caso contrário, o erro é reportado. <br>
+#### Fluxo usuário (CSU01) 
  
-Fluxo Alternativo (3): Consulta
 
-a)	A Secretária opta por pesquisar pelo nome ou código e solicita a consulta sobre a lista de professores. <br>
-b)	O Sistema apresenta uma lista professores. <br>
-c)	A Secretária seleciona o professor. <br>
-d)	O Sistema apresenta os detalhes do professor no formulário de professores. <br>
+Sumário: Este caso de uso descreve como um usuário interage com a biblioteca digital para pesquisar, comprar e ler e-books de forma acessível. 
 
-Pós-condições: Um professor foi inserido ou removido, seus dados foram alterados ou apresentados na tela.
+Ator Primário: Usuário 
+
+Ator Secundário: Suporte Técnico  
+
+Pré-condições: O usuário deve estar cadastrado no sistema; O usuário deve estar autenticado (login realizado com sucesso); O sistema deve estar funcional e acessível. 
+
+ 
+
+Fluxo Principal: 
+
+1) O usuário acessa a biblioteca digital e faz login. 
+
+2) O usuário navega no catálogo de e-books do sistema. 
+
+3) O idoso pode realizar as seguintes ações: 
+
+Pesquisar um e-book por nome, autor ou categoria. 
+
+Visualizar detalhes do e-book, incluindo sinopse e preço. 
+
+Adquirir o e-book (caso já não tenha adquirido). 
+
+Ler o e-book diretamente no sistema, com opções de acessibilidade. 
+
+  4) O sistema processa a solicitação e exibe a interface de leitura com                                                                              opções como: 
+
+Aumentar o tamanho da fonte. 
+
+Aumentar ou diminuir brilho da tela. 
+
+Mudar o contraste da tela. 
+
+Ativar a leitura em voz alta. 
+
+5) O idoso pode continuar navegando ou encerrar a sessão. 
+
+Fluxo Alternativo (1): Erro de Login 
+
+1. Se o usuário apresentar erro de Login: 
+
+O usuário deverá realizar o cadastro no sistema. 
+
+Fluxo Alternativo (3): Pesquisa sem Resultados 
+
+3. Se nenhum e-book for encontrado na pesquisa: 
+
+O sistema exibe uma mensagem informando não haver resultados compatíveis. 
+
+O idoso pode tentar outra pesquisa ou sair do sistema. 
+
+Fluxo Alternativo (3): Erro no Pagamento 
+
+3. Se houver uma falha no pagamento do e-book: 
+
+O sistema exibe uma mensagem de erro. 
+
+O idoso pode tentar outro método de pagamento ou buscar suporte. 
+
+O idoso pode cancelar a compra. 
+
+Fluxo Alternativo (3): Problema de Acessibilidade 
+
+4. Se o idoso tiver dificuldade para visualizar ou ouvir o conteúdo: 
+
+O sistema fornece um guia rápido de acessibilidade. 
+
+O idoso pode acionar o suporte técnico para assistência. 
+
+Pós-condições: O idoso consegue acessar os e-books adquiridos sempre que fizer login; O histórico de leituras é salvo para que ele possa retomar a leitura de onde parou; O sistema melhora a experiência do usuário com acessibilidade otimizada. 
 
 ### 3.4.3 Diagrama de Classes 
 
