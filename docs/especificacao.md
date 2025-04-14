@@ -60,7 +60,7 @@ Como observado no diagrama de casos de uso da Figura 1, a secretária poderá ge
 
 #### Figura 1: Diagrama de Casos de Uso do Sistema.
 
-![dcu](https://cdn.discordapp.com/attachments/1241910175514886175/1361134604227973313/Imagem_do_WhatsApp_de_2025-04-13_as_20.53.13_0baa04a4.jpg?ex=67fda6e2&is=67fc5562&hm=b00822be202d4ddb235b50a73c4d2c77e4410477a4d403e20dd118a0552ed62b&)
+![dcu](https://cdn.discordapp.com/attachments/1241910175514886175/1361141234017767716/image.png?ex=67fdad0e&is=67fc5b8e&hm=179a15f1141672255f38f4c8b181a0fe11c5032512216dde0f4140603caac018&)
  
 ### 3.4.2 Descrições de Casos de Uso
 
