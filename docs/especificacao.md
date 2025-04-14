@@ -85,59 +85,45 @@ Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
 
 2) O usuário navega no catálogo de e-books do sistema. 
 
-3) O idoso pode realizar as seguintes ações: 
+3) O idoso pode realizar as seguintes ações:
+   
+   - Pesquisar um e-book por nome, autor ou categoria. 
+   - Visualizar detalhes do e-book, incluindo sinopse e preço. 
+   - Adquirir o e-book (caso já não tenha adquirido). 
+   - Ler o e-book diretamente no sistema, com opções de acessibilidade. 
 
-Pesquisar um e-book por nome, autor ou categoria. 
+ 4) O sistema processa a solicitação e exibe a interface de leitura com opções como: 
 
-Visualizar detalhes do e-book, incluindo sinopse e preço. 
+    - Aumentar o tamanho da fonte. 
+    - Aumentar ou diminuir brilho da tela. 
+    - Mudar o contraste da tela. 
+    - Ativar a leitura em voz alta. 
 
-Adquirir o e-book (caso já não tenha adquirido). 
-
-Ler o e-book diretamente no sistema, com opções de acessibilidade. 
-
-  4) O sistema processa a solicitação e exibe a interface de leitura com                                                                              opções como: 
-
-Aumentar o tamanho da fonte. 
-
-Aumentar ou diminuir brilho da tela. 
-
-Mudar o contraste da tela. 
-
-Ativar a leitura em voz alta. 
-
-5) O idoso pode continuar navegando ou encerrar a sessão. 
+ 5) O idoso pode continuar navegando ou encerrar a sessão. 
 
 **Fluxo Alternativo (1): Erro de Login**
 
 1. Se o usuário apresentar erro de Login: 
+   - O usuário deverá realizar o cadastro no sistema. 
 
-O usuário deverá realizar o cadastro no sistema. 
-
-Fluxo Alternativo (3): Pesquisa sem Resultados 
+**Fluxo Alternativo (3): Pesquisa sem Resultados** 
 
 3. Se nenhum e-book for encontrado na pesquisa: 
-
-O sistema exibe uma mensagem informando não haver resultados compatíveis. 
-
-O idoso pode tentar outra pesquisa ou sair do sistema. 
+   - O sistema exibe uma mensagem informando não haver resultados compatíveis.
+   - O idoso pode tentar outra pesquisa ou sair do sistema. 
 
 **Fluxo Alternativo (3): Erro no Pagamento** 
 
 3. Se houver uma falha no pagamento do e-book: 
-
-O sistema exibe uma mensagem de erro. 
-
-O idoso pode tentar outro método de pagamento ou buscar suporte. 
-
-O idoso pode cancelar a compra. 
+   - O sistema exibe uma mensagem de erro. 
+   - O idoso pode tentar outro método de pagamento ou buscar suporte. 
+   - O idoso pode cancelar a compra. 
 
 **Fluxo Alternativo (3): Problema de Acessibilidade** 
 
 4. Se o idoso tiver dificuldade para visualizar ou ouvir o conteúdo: 
-
-O sistema fornece um guia rápido de acessibilidade. 
-
-O idoso pode acionar o suporte técnico para assistência. 
+   - O sistema fornece um guia rápido de acessibilidade. 
+   - O idoso pode acionar o suporte técnico para assistência. 
 
 **Pós-condições**: O idoso consegue acessar os e-books adquiridos sempre que fizer login; O histórico de leituras é salvo para que ele possa retomar a leitura de onde parou; O sistema melhora a experiência do usuário com acessibilidade otimizada. 
 
