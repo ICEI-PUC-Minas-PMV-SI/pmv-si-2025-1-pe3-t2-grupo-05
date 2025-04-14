@@ -79,7 +79,7 @@ Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
 
  
 
-Fluxo Principal: 
+**Fluxo Principal**: 
 
 1) O usuário acessa a biblioteca digital e faz login. 
 
@@ -107,7 +107,7 @@ Ativar a leitura em voz alta.
 
 5) O idoso pode continuar navegando ou encerrar a sessão. 
 
-Fluxo Alternativo (1): Erro de Login 
+**Fluxo Alternativo (1): Erro de Login**
 
 1. Se o usuário apresentar erro de Login: 
 
@@ -121,7 +121,7 @@ O sistema exibe uma mensagem informando não haver resultados compatíveis.
 
 O idoso pode tentar outra pesquisa ou sair do sistema. 
 
-Fluxo Alternativo (3): Erro no Pagamento 
+**Fluxo Alternativo (3): Erro no Pagamento** 
 
 3. Se houver uma falha no pagamento do e-book: 
 
@@ -131,7 +131,7 @@ O idoso pode tentar outro método de pagamento ou buscar suporte.
 
 O idoso pode cancelar a compra. 
 
-Fluxo Alternativo (3): Problema de Acessibilidade 
+**Fluxo Alternativo (3): Problema de Acessibilidade** 
 
 4. Se o idoso tiver dificuldade para visualizar ou ouvir o conteúdo: 
 
@@ -139,7 +139,7 @@ O sistema fornece um guia rápido de acessibilidade.
 
 O idoso pode acionar o suporte técnico para assistência. 
 
-Pós-condições: O idoso consegue acessar os e-books adquiridos sempre que fizer login; O histórico de leituras é salvo para que ele possa retomar a leitura de onde parou; O sistema melhora a experiência do usuário com acessibilidade otimizada. 
+**Pós-condições**: O idoso consegue acessar os e-books adquiridos sempre que fizer login; O histórico de leituras é salvo para que ele possa retomar a leitura de onde parou; O sistema melhora a experiência do usuário com acessibilidade otimizada. 
 
 ### 3.4.3 Diagrama de Classes 
 
