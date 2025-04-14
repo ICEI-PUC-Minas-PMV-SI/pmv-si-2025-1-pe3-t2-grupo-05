@@ -43,10 +43,16 @@ O LDI não permite o download dos e-books para dispositivos externos, restringin
 
 | Código | Requisito Funcional (Funcionalidade) | Descrição |
 |--------------------|------------------------------------|----------------------------------------|
-| RF1 | Gerenciar Curso de Aperfeiçoamento |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Cursos de Aperfeiçoamento |
-| RF2 |	Gerenciar Professor	| Processamento de Inclusão, Alteração, Exclusão e Consulta de professores |
-| RF3	| Gerenciar Matrícula |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Matrículas de alunos em Cursos de Aperfeiçoamento |
+| RF1 | Gerenciar Usuários |	Processamento de Cadastro, Alteração, Exclusão e Consulta de dados de usuários idosos |
+| RF2 |	Gerenciar Acervo	| Processamento de Listagem, Filtragem, Busca e Visualização detalhada de e-books disponíveis |
+| RF3	| Gerenciar Aquisição de E-books |	Processamento de Seleção, Pagamento e Aquisição de e-books pelo usuário |
+| RF4	| Gerenciar Biblioteca Pessoal |	Processamento de Acesso, Organização e Visualização dos e-books adquiridos pelo usuário |
+| RF5	| Gerenciar Leitura |	Processamento de Abertura, Navegação, Marcação e Personalização da experiência de leitura |
+| RF6	| Gerenciar Preferências |	Processamento de Configuração, Salvamento e Aplicação de preferências de acessibilidade |
+| RF7	| Gerenciar Ajuda |	Processamento de Exibição de tutoriais, dicas e suporte contextual ao usuário |
+| RF8	| Gerenciar Favoritos |	Processamento de Marcação, Visualização e Organização de e-books favoritos |
 | ... |	...	| ... |
+
 
 ### 3.3.2 Requisitos Não Funcionais
 
