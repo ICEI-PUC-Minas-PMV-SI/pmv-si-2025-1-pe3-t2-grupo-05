@@ -68,7 +68,7 @@ O LDI não permite o download dos e-books para dispositivos externos, restringin
 ## 3.4 Modelagem do Sistema
 
 ### 3.4.1 Diagrama de Casos de Uso
-Como observado no diagrama de casos de uso da Figura 1, a secretária poderá gerenciar as matrículas e professores no sistema, enquanto o coordenador, além dessas funções, poderá gerenciar os cursos de aperfeiçoamento.
+Conforme apresentado no diagrama da Figura 1, o usuário efetua o Login, se estiver cadastrado, caso não, realize o cadastro. Em seguido o mesmo pode buscar, comprar e ler e-books, além de gerenciar sua biblioteca, personalizar acessibilidade e solicitar suporte. O administrador gerencia o catálogo de e-books, enquanto o suporte técnico recebe chamados e presta atendimento aos usuários. 
 
 #### Figura 1: Diagrama de Casos de Uso do Sistema.
 
