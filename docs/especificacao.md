@@ -133,7 +133,8 @@ A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a i
 
 #### Figura 2: Diagrama de Classes do Sistema.
  
-![image](hhttps://cdn.discordapp.com/attachments/1241910175514886175/1361140446004510830/image.png?ex=67fdac53&is=67fc5ad3&hm=3e2fff56cc6cc4a505a9e886db2affa5cbea5cc22ecdcd53ba45c00ee5592ba8&)
+![dcu](https://cdn.discordapp.com/attachments/1241910175514886175/1361140446004510830/image.png?ex=67fdac53&is=67fc5ad3&hm=3e2fff56cc6cc4a505a9e886db2affa5cbea5cc22ecdcd53ba45c00ee5592ba8&)
+ 
 
 
 ### 3.4.4 Descrições das Classes 
