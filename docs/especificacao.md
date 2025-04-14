@@ -58,10 +58,15 @@ O LDI não permite o download dos e-books para dispositivos externos, restringin
 
 | Código | Requisito Não Funcional (Restrição) |
 |--------------------|------------------------------------|
-| RNF1 | O ambiente operacional a ser utilizado é o Windows XP. |
-| RNF2 | O sistema deverá executar em um computador configurado com uma impressora de tecnologia laser ou de jato de tinta, a ser usada para impressão dos relatórios. |
-| RNF3 |	Segurança	O produto deve restringir o acesso por meio de senhas individuais para o usuário. |
-| ... |	... |	... |
+| RNF1 | A interface deve utilizar elementos amplos, com boa legibilidade e navegação intuitiva, priorizando as necessidades dos usuários idosos. (Usabilidade)|
+| RNF2 | O sistema deve oferecer opções de alto contraste, ajuste de fonte e compatibilidade com leitores detela para atender usuários com diferentes limitações visuais. (Acessibilidade) |
+| RNF3 |	O sistema deve funcionar adequadamente em diferentes dispositivos (desktop, tablet e smartphone) com adaptação automática da interface. (Compatibilidade)|
+| RNF4 |	O tempo de resposta do sistema não deve exceder 3 segundos para qualquer operação, evitando frustração do usuário. (Desempenho) |
+| RNF5 |	O sistema utilizará um código de verificação enviado por e-mail para autenticação. Esse método facilita o login, permitindo acesso rápido e seguro, sem a necessidade de lembrar senhas. (Segurança) |
+| RNF6 |A duração máxima das sessões ativas será limitada a 2 horas, para garantir a segurança e a integridade dos dados do usuário, após o qual será necessário realizar novo login. (Segurança)|
+| RNF7 |	O sistema deve fornecer feedback visual e sonoro claro para todas as ações realizadas pelo usuário. (Usabilidade) |
+| RNF8 |	O código deve ser estruturado para facilitar atualizações futuras, especialmente para incorporação de novos recursos de acessibilidade. (Manutenabilidade)|
+
 
 ### 3.3.3 Usuários 
 
@@ -174,4 +179,4 @@ suporte técnico (TechnicalSupport) e configurações de acessibilidade (Accessi
 | 8	|	Sale |	Cadastro de vendar e processamento de pagamentos |
 | 9	|	Catalog |	Cadastro geral de eBooks disponíveis para busca |
 
-| ... |	... |	... |
+
