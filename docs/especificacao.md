@@ -83,7 +83,7 @@ Conforme apresentado no diagrama da Figura 1, o usuário efetua o Login, se esti
 
 #### Figura 1: Diagrama de Casos de Uso do Sistema.
 
-![dcu](https://cdn.discordapp.com/attachments/1241910175514886175/1361141234017767716/image.png?ex=67fdad0e&is=67fc5b8e&hm=179a15f1141672255f38f4c8b181a0fe11c5032512216dde0f4140603caac018&)
+![dcu](./git-img/casos-uso.png)
  
 ### 3.4.2 Descrições de Casos de Uso
 
@@ -161,7 +161,7 @@ suporte técnico (TechnicalSupport) e configurações de acessibilidade (Accessi
 
 #### Figura 2: Diagrama de Classes do Sistema.
  
-![dcu](https://cdn.discordapp.com/attachments/1241910175514886175/1361140446004510830/image.png?ex=67fdac53&is=67fc5ad3&hm=3e2fff56cc6cc4a505a9e886db2affa5cbea5cc22ecdcd53ba45c00ee5592ba8&)
+![img](./git-img/diagrama-classes.png)
  
 
 
