@@ -3,6 +3,7 @@
 ## 4.1 Personas
 Nesta seção, apresentamos as personas desenvolvidas para o projeto Livraria Digital para Idosos. Elas representam perfis de usuários que refletem as características, desafios e necessidades do nosso público-alvo.
 Persona 1
+![dcu]([https://cdn.discordapp.com/attachments/1241910175514886175/1361141234017767716/image.png?ex=67fdad0e&is=67fc5b8e&hm=179a15f1141672255f38f4c8b181a0fe11c5032512216dde0f4140603caac018&](https://discord.com/channels/@me/1241910175514886175/1376383419818180748))
 
 
 ## 4.2 Mapa de Empatia
