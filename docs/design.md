@@ -8,8 +8,107 @@ Persona 1
 
 
 ## 4.2 Mapa de Empatia
-Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. O objetivo é obter um nível mais profundo de compreensão de uma persona. A seguir um exemplo de template que pode ser usado para o mapa de empatia. Para cada persona deverá ser apresentado o seu respectivo mapa de empatia. Sugere-se a utilização do template apresentado em https://www.rdstation.com/blog/marketing/mapa-da-empatia/.
+  Nos ajuda a entender como esse público se relaciona com a tecnologia e com a leitura digital, permitindo criar uma plataforma mais acessível, intuitiva e adequada às suas limitações e preferências. 
 
+
+  
 ## 4.3 Protótipos das Interfaces
-Apresente nesta seção os protótipos de alta fidelidade do sistema proposto. A fidelidade do protótipo refere-se ao nível de detalhes e funcionalidades incorporadas a ele. Assim, um protótipo de alta fidelidade é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidades. No desenvolvimento dos protótipos, devem ser considerados os princípios gestálticos, as recomendações ergonômicas e as regras de design (como as 8 regras de ouro). É importante descrever no texto do relatório como os princípios gestálticos e as regras de ouro foram seguidas no projeto das interfaces. Nesta etapa deve-se dar uma ênfase na implementação do software de modo que possam ser realizados os testes com usuários na etapa seguinte.
+4.3.1 Tela de Cadastro 
+
+Princípios Gestálticos Aplicados: 
+
+Proximidade: Campos como nome, e-mail e senha estão agrupados, facilitando o entendimento do fluxo de preenchimento. 
+
+ 
+
+Similaridade: Todos os campos seguem o mesmo estilo visual, indicando que fazem parte do mesmo processo. 
+
+ 
+
+Simplicidade: Layout limpo, sem excesso de informações, direcionando o usuário para o objetivo principal: o cadastro. 
+
+ 
+
+Fechamento: Caixas e bordas bem definidas ajudam a guiar o olhar do usuário e a compreender a organização da tela. 
+
+ 
+
+Regras de Ouro: 
+
+Consistência visual com os mesmos ícones e padrões de outras telas. 
+
+Cores dos botões padronizadas para indicar ações como "Cadastrar" ou "Voltar". 
+
+Interface simplificada, destacando os elementos essenciais. 
+
+ 
+
+Recomendações Ergonômicas: 
+
+Botões bem posicionados para fácil alcance, inclusive em telas menores. 
+
+Fontes grandes e legíveis, favorecendo pessoas com baixa acuidade visual. 
+
+Contraste adequado entre texto e fundo, garantindo legibilidade. 
+
+ 4.3.2 Tela de Login 
+
+ 
+
+Princípios Gestálticos : 
+
+Proximidade: Agrupamento dos campos de e-mail e senha, junto ao botão de acesso. 
+
+Similaridade: Campos com o mesmo padrão visual reforçam a relação entre eles. 
+
+Simplicidade: Interface enxuta, sem elementos distrativos, focando no acesso ao sistema. 
+
+Fechamento: Uso de caixas e divisões claras para orientar o usuário. 
+
+Regras de Ouro: 
+
+Ícones de e-mail e senha idênticos aos de outras telas, reforçando a consistência. 
+
+Cores dos botões mantêm o padrão visual da plataforma. 
+
+Layout organizado, com foco na usabilidade e clareza. 
+
+Recomendações Ergonômicas: 
+
+Botões e campos acessíveis tanto em desktop quanto em dispositivos móveis. 
+
+Tamanhos de fontes e campos ideais para leitura fácil. 
+
+Contraste alto, priorizando a acessibilidade. 
+.3.3 Tela de Redefinir Senha 
+
+ 
+
+Princípios Gestálticos Aplicados: 
+
+Proximidade: Agrupamento dos campos necessários para redefinir a senha. 
+
+Similaridade: Elementos visuais padronizados reforçam o entendimento. 
+
+Simplicidade: Interface clara e objetiva, focada na ação de redefinir. 
+
+Fechamento: Caixas bem definidas ajudam na compreensão do fluxo. 
+
+Regras de Ouro: 
+
+Manutenção dos mesmos ícones e padrões usados no login e no cadastro. 
+
+Cores dos botões seguem o mesmo padrão visual. 
+
+Menor quantidade de elementos, mantendo o foco na ação principal. 
+
+Recomendações Ergonômicas: 
+
+Zonas de toque bem distribuídas e de fácil alcance. 
+
+Fontes ampliadas e legíveis. 
+
+Contraste forte entre texto, fundo e botões. 
+ 
+
 
