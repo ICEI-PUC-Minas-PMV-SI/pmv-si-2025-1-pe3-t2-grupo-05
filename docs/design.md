@@ -72,7 +72,7 @@ Simplicidade: Layout limpo, sem excesso de informações, direcionando o usuári
 
 Fechamento: Caixas e bordas bem definidas ajudam a guiar o olhar do usuário e a compreender a organização da tela.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Consistência visual com os mesmos ícones e padrões de outras telas.
 
@@ -102,7 +102,7 @@ Simplicidade: Interface enxuta, sem elementos distrativos, focando no acesso ao 
 
 Fechamento: Uso de caixas e divisões claras para orientar o usuário.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Ícones de e-mail e senha idênticos aos de outras telas, reforçando a consistência.
 
@@ -117,39 +117,12 @@ Botões e campos acessíveis tanto em desktop quanto em dispositivos móveis.
 Tamanhos de fontes e campos ideais para leitura fácil.
 
 Contraste alto, priorizando a acessibilidade.
-.3.3 Tela de Redefinir Senha
-
-Princípios Gestálticos Aplicados:
-
-Proximidade: Agrupamento dos campos necessários para redefinir a senha.
-
-Similaridade: Elementos visuais padronizados reforçam o entendimento.
-
-Simplicidade: Interface clara e objetiva, focada na ação de redefinir.
-
-Fechamento: Caixas bem definidas ajudam na compreensão do fluxo.
-
-Regras de Ouro:
-
-Manutenção dos mesmos ícones e padrões usados no login e no cadastro.
-
-Cores dos botões seguem o mesmo padrão visual.
-
-Menor quantidade de elementos, mantendo o foco na ação principal.
-
-Recomendações Ergonômicas:
-
-Zonas de toque bem distribuídas e de fácil alcance.
-
-Fontes ampliadas e legíveis.
-
-Contraste forte entre texto, fundo e botões.
 
 ### 4.3.3 Tela de Redefinir Senha
 
 ![Tela de Redefinir Senha ](/docs/git-img/prototipo-tela-3.jpg)
 
-Princípios Gestálticos:
+#### Princípios Gestálticos
 
 Proximidade: Agrupamento dos campos necessários para redefinir a senha.
 
@@ -159,7 +132,7 @@ Simplicidade: Interface clara e objetiva, focada na ação de redefinir.
 
 Fechamento: Caixas bem definidas ajudam na compreensão do fluxo.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Manutenção dos mesmos ícones e padrões usados no login e no cadastro.
 
@@ -189,7 +162,7 @@ Simplicidade: Tela organizada, sem poluição visual, facilitando a navegação.
 
 Fechamento: Alinhamento e agrupamento dos elementos facilitam a compreensão da tela.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Ícones e menus consistentes com as demais telas.
 
@@ -209,7 +182,7 @@ Contraste bem definido entre os textos, botões e fundos.
 
 ![Tela de Catálogo de Livros](/docs/git-img/prototipo-tela-5.jpg)
 
-Princípios Gestálticos:
+#### Princípios Gestálticos
 
 Proximidade: Livros são organizados em linhas e colunas, facilitando a visualização por agrupamento.
 
@@ -219,7 +192,7 @@ Simplicidade: Interface limpa, focada na busca e na escolha dos livros.
 
 Fechamento: Cards de livros bem delimitados, favorecendo a compreensão.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Cores e ícones padronizados com as outras telas.
 
@@ -249,7 +222,7 @@ Simplicidade: A interface é limpa, focada em destacar as informações essencia
 
 Fechamento: As caixas e seções bem delimitadas organizam o conteúdo, guiando o olhar do usuário e estruturando a navegação.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Mantém a consistência visual com os mesmos botões, cores, ícones e estilos utilizados nas demais telas do sistema.
 
@@ -270,7 +243,7 @@ Espaçamento adequado entre os elementos, evitando toques acidentais e promovend
 ![Tela de Pagamento](/docs/git-img/prototipo-tela-7.jpg)
 ![Tela de Pagamento 2](/docs/git-img/prototipo-tela-8.jpg)
 
-Princípios Gestálticos:
+#### Princípios Gestálticos
 
 Proximidade: Informações do livro, preço e botão de confirmação estão próximos, facilitando a decisão de compra.
 
@@ -280,7 +253,7 @@ Simplicidade: Foco total na confirmação da compra, evitando distrações.
 
 Fechamento: Uso de caixas e divisões para separar informações.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Consistência no uso dos mesmos botões e padrões visuais.
 
@@ -300,7 +273,7 @@ Fluxo simples, minimizando o esforço do usuário.
 
 ![Tela de Meus Livros](/docs/git-img/prototipo-tela-9.jpg)
 
-Princípios Gestálticos:
+#### Princípios Gestálticos
 
 Proximidade: Agrupamento dos livros adquiridos, facilitando a navegação.
 
@@ -310,7 +283,7 @@ Simplicidade: Tela focada na leitura e no gerenciamento dos livros do usuário.
 
 Fechamento: Cards de livros bem delimitados, facilitando a interação.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Padrões de botões e menus mantidos iguais às outras telas.
 
@@ -330,7 +303,7 @@ Facilidade de acesso às funções de leitura.
 
 ![Tela de Leitura do Livro](/docs/git-img/prototipo-tela-10.jpg)
 
-Princípios Gestálticos:
+#### Princípios Gestálticos
 
 Proximidade: Ferramentas de navegação (próxima página, anterior, aumentar fonte) estão agrupadas.
 
@@ -340,7 +313,7 @@ Simplicidade: Interface limpa, priorizando o texto do livro.
 
 Fechamento: Molduras e caixas delimitam claramente o conteúdo da leitura.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Padrão de cores, botões e ícones mantido.
 
@@ -370,7 +343,7 @@ Simplicidade: Interface clara, objetiva e fácil de navegar.
 
 Fechamento: Uso de caixas para delimitar seções de atendimento.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Consistência de ícones, botões e cores.
 
@@ -400,7 +373,7 @@ Simplicidade: Interface clara e fácil de entender, com foco na acessibilidade.
 
 Fechamento: Caixas e divisões bem definidas ajudam na orientação do usuário.
 
-Regras de Ouro:
+#### Regras de Ouro
 
 Cores e ícones padronizados com todo o sistema.
 
@@ -440,7 +413,7 @@ Se após o login, consegue identificar que está na página inicial (home) da pl
 
 Se os elementos da home estão bem distribuídos e fáceis de compreender (menu, categorias, destaques, etc.).
 
- ### Tarefa 3 — Pesquisar por um Livro Específico
+### Tarefa 3 — Pesquisar por um Livro Específico
 
 O que testar:
 
