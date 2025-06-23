@@ -6,9 +6,9 @@ Nesta etapa devem ser realizados dois tipos de avaliação: por observação de 
 
 Ao final, os relatórios gerados por cada membro deverão ser disponibilizados aqui, juntamente com a planilha consolidada da avaliação heurística.
 
-Material de apoio para esta etapa:
+Relatórios prontos para consulta:
 
 
-[Avaliação Heurística](docs/git-files/Avaliação_Heurística.xlsx) 
+[Avaliação Heurística](../docs/git-files/Avaliação_Heurística.xlsx) 
 
-[Relatório de Teste com Usuário](docs/git-files/Relatório_de_Testes_com_Usuário_Geral.pdf)
+[Relatório de Teste com Usuário](../docs/git-files/Relatório_de_Testes_com_Usuário_Geral.pdf)
